@@ -1,6 +1,6 @@
 Dataset **OD-WeaponDetection: Knife Classification** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/X/b/LG/BsUMxwUsCUQY6zorQvaqIxHKJkH07jpKnDjFBJi9GVG8UGhwpK9JnzMRiNmXMzKk1JZRfaG4OyCjXvGk0MGt3JwaV7cXQc0mgPBI15dBhdkxBixTK48TXjx5MUvL.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
