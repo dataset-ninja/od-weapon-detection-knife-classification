@@ -62,7 +62,7 @@ ORGANIZATION_NAME: Optional[Union[str, List[str]]] = ["University of Granada, Sp
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = ["http://www.ugr.es/en"]
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
-SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = None
+SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {"__POSTTEXT__":"The dataset designed for classification task, contains 100 classes: ***aaaknife***, ***airplanes***, ***barrel*** and more"}
 TAGS: Optional[List[str]] = None
 
 
